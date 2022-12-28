@@ -45,11 +45,9 @@ Describe any challenges encountered while building the app.
 After searching on Google as to what the problem might be, I figured out that I was referencing an .xml file instead of a .ttf file. 
 This problem was resolved when I created and referenced to the .ttf font file.
 
-* Another challenge I encountered was knowing how to have 1 button be used for two different functions (display two different themes). 
-While searching how to solve the issue, I found a YouTube video which solved a similar problem. I was specifically having trouble using a boolean where
-the theme would change back right away after pressing the button. This is where the video introduced having an int variable to keep track
-of the mode. For my app, the int variable would have 3 modes. One for the light theme, one for the dark theme, and specifically a mode to be in neutral. The 
-neutral mode (int = 2) would help stop the theme from changing back after the button was pressed.
+* Another challenge I encountered was knowing how to have 1 button be used to interchange display between two different themes. 
+While searching how implement this function, I found a YouTube video which solved a similar problem. I was specifically having trouble using a boolean where the theme would change back right away after pressing the button. This is where the video introduced having an int variable to keep track
+of the mode. For my app, the int variable would have 3 modes. One for the light theme, one for the dark theme, and specifically a mode to be in neutral. The neutral mode (int = 2) would help stop the theme from changing back after the button was pressed.
 YouTube video I referenced: https://www.youtube.com/watch?v=DpyJZ-f6xVg 
 
 * The final challenge I encountered was having the dark theme be the intial gradient background I had before pressing the button. I tried searching 
