@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 * Added a new drawable resource file to create a gradient background
 * Added a new font file 
 * Pressing on the button allows the user to change into a light or dark display theme
-* In the two themes, the button, button text, layout background, and introductory message change color
+* In the two themes, the button, button text, layout background, and introductory message text change color
 
 * [X] List anything else that you can get done to improve the app functionality!
 * I would try to change the color of the default purple header bar at the top 
