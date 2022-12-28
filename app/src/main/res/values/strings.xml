@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="malhiya_intro">My name is Malhiya Arnib. I love coding and learning new skills! Some of my hobbies include
+painting and trying a different activity every few months (currently it’s trying to solve a Rubik’s
+cube faster). I also enjoy teaching concepts in computer science and other STEM subjects. The new insights and perspectives I learn from the
+different activities in my life allow me to grow personally and academically. I am eager to learn more about Android development and believe
+CodePath will provide me the skills, guidance, and support to pursue a successful career in this field!</string>
+    <string name="heading">Hello!</string>
+    <string name="button_clicked_msg">Hello to you too!</string>
+    <string name="button_msg">Change Theme</string>
+    <string name="light_theme_msg">Light Theme</string>
+    <string name="dark_theme_message">Dark Theme</string>
+</resources>
